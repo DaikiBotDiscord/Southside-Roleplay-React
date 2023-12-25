@@ -1,0 +1,12 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: auto;
+  background-image: url('https://media.discordapp.net/attachments/1134243980276678716/1188631966388604999/SSRP_logo.png?ex=659b3ac8&is=6588c5c8&hm=523ecee3e88d4d8615d3c33a15dd2cd861de27e41875101b98455862eb9b6254&=&format=webp&quality=lossless&width=701&height=701'),radial-gradient(circle at center, rgb(189, 195, 199) 0.00%,rgb(44, 62, 80) 100.00%);
+  background-repeat: no-repeat;
+  background-position: center;
+}
